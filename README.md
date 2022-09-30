@@ -70,5 +70,3 @@ border-radius: 15px;
 ## Author
 
 - Frontend Mentor - [@omeryaz](https://www.frontendmentor.io/profile/omeryaz)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
